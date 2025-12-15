@@ -1,7 +1,9 @@
 # Weather Analysis— Delhi
 
 **Author:** Anchal Shukla
+
 **Registration Number:** 12310866
+
 **Subject:** INT234 : PREDICTIVE ANALYTICS
 
 ---
@@ -160,18 +162,7 @@ Ideas for future work:
 
 
 
-**Shruti Somvanshi — Weather Intelligence System (INT234 : PREDICTIVE ANALYTICS)**
-
----
-
-## Contact
-
-If you have questions or want to collaborate:
-
-* **Author:** Anchal Shukla
-* **Registration Number:** 12310866
-* **Subject:** INT234 : PREDICTIVE ANALYTICS
-
+**Anchal Shukla — Weather Analysis (INT234 : PREDICTIVE ANALYTICS)**
 
 ---
 
